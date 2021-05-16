@@ -1,5 +1,5 @@
 
-# <center> Comida Yucateca
+# <H1 align="center"> Comida Yucateca
 >
 >
 > ## La comida mestiza
