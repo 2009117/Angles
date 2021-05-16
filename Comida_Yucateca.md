@@ -6,8 +6,7 @@
 > 
 > Los mayas no conocían el trigo, la base de su alimentación era el maíz. El trigo fue traído por los exploradores y conquistadores españoles e intentaron aclimatarlo a la Península, mas no lo consiguieron, a pesar de sus ensayos y experiencias, a causa del excesivo calor.</div>
  
-><img src="https://www.cocina.es/wp-content/uploads/2017/01/856566319_d4a69870f3_b-e1484137273255.jpg"default
- alt="drawing" width="200"/
+> <img src="https://www.cocina.es/wp-content/uploads/2017/01/856566319_d4a69870f3_b-e1484137273255.jpg"default" alt="drawing" width="200"/
 > <br>
 > 
 
