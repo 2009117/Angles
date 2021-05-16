@@ -4,7 +4,7 @@
 >
 > ## <H1 align="center"> La comida mestiza
 > 
-><H1 align="justify"> Los mayas no conocían el trigo, la base de su alimentación era el maíz. El trigo fue traído por los exploradores y conquistadores españoles e intentaron aclimatarlo a la Península, mas no lo consiguieron, a pesar de sus ensayos y experiencias, a causa del excesivo calor.</div>
+> <H1 align="justify"> Los mayas no conocían el trigo, la base de su alimentación era el maíz. El trigo fue traído por los exploradores y conquistadores españoles e intentaron aclimatarlo a la Península, mas no lo consiguieron, a pesar de sus ensayos y experiencias, a causa del excesivo calor.</div>
 > 
 
 ><div class="text-justify">
